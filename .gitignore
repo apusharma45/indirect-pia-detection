@@ -15,6 +15,7 @@ wandb/
 .cache/
 hf_cache/
 artifacts/models/
+artifacts/smoke_data/
 
 logs/
 *_logs/
