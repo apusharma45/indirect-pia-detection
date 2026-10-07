@@ -1,21 +1,4 @@
-/papers/
-context.md
-.gitignore.utf16.bak
-
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-.env
-.venv/
-venv/
-
-ckpt/
-checkpoints/
-wandb/
-.cache/
-hf_cache/
-artifacts/models/
-artifacts/smoke_data/
-
-logs/
-*_logs/
+# This repository intentionally tracks only the Kaggle helper notebook.
+*
+!.gitignore
+!indirect-pia-detection.ipynb
